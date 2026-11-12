@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">040A4.1MiKardex</string>
+
+    <!-- Datos del alumno -->
+    <string name="alumno_titulo">Mis datos</string>
+    <string name="alumno_ayuda">Se guardan en el dispositivo y no se borran al cerrar la app.</string>
+    <string name="alumno_nombre">Nombre del alumno</string>
+    <string name="alumno_numero_control">Número de control</string>
+
+    <!-- Secciones -->
+    <string name="seccion_capturar">Capturar</string>
+    <string name="seccion_historial">Historial</string>
+    <string name="seccion_promedios">Promedios</string>
+
+    <!-- Captura -->
+    <string name="captura_titulo">Nueva materia</string>
+    <string name="captura_nombre">Nombre de la materia</string>
+    <string name="captura_semestre">Semestre</string>
+    <string name="captura_calificaciones">Calificaciones</string>
+    <string name="captura_normal">Curso normal</string>
+    <string name="captura_repeticion">Repetición</string>
+    <string name="captura_especial">Especial</string>
+    <string name="captura_guardar">Guardar materia</string>
+
+    <!-- Historial -->
+    <string name="historial_vacio">Todavía no cargaste materias</string>
+    <string name="historial_vacio_ayuda">Andá a la pestaña Capturar</string>
+    <string name="historial_detalle">Semestre %1$d · Normal %2$s · Repetición %3$s · Especial %4$s</string>
+    <string name="historial_borrar">Borrar</string>
+
+    <!-- Promedios -->
+    <string name="promedios_general">Promedio general</string>
+    <string name="promedios_por_semestre">Por semestre</string>
+    <string name="promedios_semestre">Semestre %1$d</string>
+    <string name="promedios_vacio">Cargá materias con calificación para ver los promedios</string>
+    <plurals name="promedios_cantidad">
+        <item quantity="one">%1$d materia</item>
+        <item quantity="other">%1$d materias</item>
+    </plurals>
+
+    <!-- Acciones comunes -->
+    <string name="accion_guardar">Guardar</string>
+</resources>
